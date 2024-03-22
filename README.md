@@ -19,9 +19,16 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-> Find a dataset (or multiple) that you will explore. Assess the quality of the data it contains and how much preprocessing / data-cleaning it will require before tackling visualization. We recommend using a standard dataset as this course is not about scraping nor data processing.
->
-> Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
+The primary dataset my team works on is a detailed examination of space exploration's evolution and significant milestones, beginning with the Soviet Union's pioneer Sputnik launch in 1957. This event ignited the Space Race, mainly between the Soviet Union and the United States. Our dataset, sourced from Next Spaceflight, records 4,287 space missions, detailing launch dates, mission names, organizing bodies, launch sites, outcomes, types, destinations, and costs where available.
+
+The supplementary dataset incorporates information on astronauts from NASA, Roscosmos, and various fan-based sources up to January 15, 2020. It offers insights into astronauts' names, genders, birthdates, nationalities, military statuses, and selection programs, alongside mission-specific details like shuttle names and EVA durations. The details make the work more interesting.
+
+The second supplementary dataset from NASA's Open Data Portal focuses on extra-vehicular activity (EVA) for the U.S. and Russia. This includes 371 entries detailing spacewalks, with information on EVA numbers, countries, crew, vehicles, dates, durations, and purposes.
+
+When looking at the historical background, the primary dataset also reflects the influence of U.S. President John F. Kennedy's vision for space exploration. Kennedy's enterprising goal, articulated in the early 1960s, aimed to land a man on the Moon and return him safely to Earth before the end of the decade. This vision directly responded to the Soviet Union's early space achievements and significantly accelerated the U.S. space program, marking a critical moment in the Space Race.
+
+
+
 
 ### Problematic
 
