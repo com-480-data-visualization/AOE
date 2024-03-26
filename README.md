@@ -23,9 +23,7 @@ The primary dataset my team works on is a detailed examination of space explorat
 
 The supplementary dataset incorporates information on astronauts from NASA, Roscosmos, and various fan-based sources up to January 15, 2020. It offers insights into astronauts' names, genders, birthdates, nationalities, military statuses, and selection programs, alongside mission-specific details like shuttle names and EVA durations. The details make the work more interesting.
 
-The second supplementary dataset from NASA's Open Data Portal focuses on extra-vehicular activity (EVA) for the U.S. and Russia. This includes 371 entries detailing spacewalks, with information on EVA numbers, countries, crew, vehicles, dates, durations, and purposes.
 
-When looking at the historical background, the primary dataset also reflects the influence of U.S. President John F. Kennedy's vision for space exploration. Kennedy's enterprising goal, articulated in the early 1960s, aimed to land a man on the Moon and return him safely to Earth before the end of the decade. This vision directly responded to the Soviet Union's early space achievements and significantly accelerated the U.S. space program, marking a critical moment in the Space Race.
 
 
 
