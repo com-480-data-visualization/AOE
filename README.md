@@ -27,6 +27,7 @@ The primary source [All Space Missions from 1957 Dataset](https://www.kaggle.com
 | SpaceX       | Pad A, Boca Chica, Texas, USA                 | Tue Aug 04, 2020 23:57 UTC | Starship Prototype | 150 Meter Hop    | StatusActive  |        | Success        |
 | Roscosmos    | Site 200/39, Baikonur Cosmodrome, Kazakhstan  | Thu Jul 30, 2020 21:25 UTC | Proton-M/Briz-M | Ekspress-80 & Ekspress-103 | StatusActive  | 65.0   | Success        |
 | ULA          | SLC-41, Cape Canaveral AFS, Florida, USA      | Thu Jul 30, 2020 11:50 UTC | Atlas V 541 | Perseverance              | StatusActive  | 145.0  | Success        |
+     |
 
 The supplementary source [Astronaut Database](https://www.kaggle.com/datasets/jessemostipak/astronaut-database) incorporates information on astronauts from NASA, Roscosmos, and various fan-based sources up to January 15, 2020. It offers insights into astronauts' names, genders, birthdates, nationalities, military statuses, and selection programs, alongside mission-specific details like shuttle names and EVA durations. The details make the work more interesting.
 
