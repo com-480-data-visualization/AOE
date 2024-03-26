@@ -19,9 +19,9 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-The primary dataset my team works on is a detailed examination of space exploration's evolution and significant milestones, beginning with the Soviet Union's pioneer Sputnik launch in 1957. This event ignited the Space Race, mainly between the Soviet Union and the United States. Our dataset, sourced from Next Spaceflight, records 4,287 space missions, detailing launch dates, mission names, organizing bodies, launch sites, outcomes, types, destinations, and costs where available.
+The primary dataset[All Space Missions from 1957 Dataset](https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957/data) my team works on is a detailed examination of space exploration's evolution and significant milestones, beginning with the Soviet Union's pioneer Sputnik launch in 1957. This event ignited the Space Race, mainly between the Soviet Union and the United States. Our dataset, sourced from Next Spaceflight, records 4,287 space missions, detailing launch dates, mission names, organizing bodies, launch sites, outcomes, types, destinations, and costs where available.
 
-The supplementary dataset incorporates information on astronauts from NASA, Roscosmos, and various fan-based sources up to January 15, 2020. It offers insights into astronauts' names, genders, birthdates, nationalities, military statuses, and selection programs, alongside mission-specific details like shuttle names and EVA durations. The details make the work more interesting.
+The supplementary dataset[Astronaut Database](https://www.kaggle.com/datasets/jessemostipak/astronaut-database) incorporates information on astronauts from NASA, Roscosmos, and various fan-based sources up to January 15, 2020. It offers insights into astronauts' names, genders, birthdates, nationalities, military statuses, and selection programs, alongside mission-specific details like shuttle names and EVA durations. The details make the work more interesting.
 
 
 
