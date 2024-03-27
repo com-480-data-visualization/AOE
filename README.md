@@ -40,9 +40,13 @@ The dataset offers in-depth mission-specific information, including selection de
 
 ### Problematic
 
-> Frame the general topic of your visualization and the main axis that you want to develop.
-> - What am I trying to show with my visualization?
-> - Think of an overview for the project, your motivation, and the target audience.
+Project Overview and Motivation:
+Our visualization project delves into the fascinating realm of space exploration, not merely from a technological standpoint but as a reflection of geopolitical development and national prowess. At its core, this project aims to provide a historical narrative, showcasing how pivotal moments in space exploration have been influenced by broader political and societal factors. A significant focus is on the transformative vision set forth by U.S. President John F. Kennedy in the early 1960s, which epitomized the U.S.'s commitment to not just match but surpass Soviet achievements in space. This endeavor underscores a key period in the Space Race, highlighting how Kennedy's ambitious goal of moon landing before the decade's end catalyzed the American space program.
+
+Objectives and Target Audience:
+The primary objective is to chart a timeline of crucial milestones in space exploration, illustrating the interplay between technological achievements and their geopolitical implications. By visualizing this timeline, we aim to provide insights into how space exploration has influenced and been shaped by countries' developmental narratives.
+
+Furthermore, the project aims to celebrate the human aspect of space exploration. By profiling the trailblazers – the first astronauts, their backgrounds, occupations, and unique contributions – we offer a tribute to their enduring legacy. This aspect of the visualization seeks to inform and inspire a diverse audience, ranging from space enthusiasts and historians to aspiring engineers and astronauts. It serves as a resource for those curious about the personal journeys of these pioneers and provides context for individuals aiming to contribute to the field of space exploration, whether in astronautics, satellite communication, or related sectors.
 
 ### Exploratory Data Analysis
 
