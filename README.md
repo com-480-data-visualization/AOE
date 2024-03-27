@@ -29,7 +29,9 @@ The primary dataset we utilize [All Space Missions from 1957 Dataset](https://ww
 | ULA          | SLC-41, Cape Canaveral AFS, Florida, USA              | Thu Jul 30, 2020 11:50 UTC  | Atlas V 541 / Perseverance                              | StatusActive  | 145.0  | Success        |
 
 
-The supplementary source [Astronaut Database](https://www.kaggle.com/datasets/jessemostipak/astronaut-database) incorporates information on astronauts from NASA, Roscosmos, and various fan-based sources up to January 15, 2020. It offers insights into astronauts' names, genders, birthdates, nationalities, military statuses, and selection programs, alongside mission-specific details like shuttle names and EVA durations. The details make the work more interesting.
+The supplementary source [Astronaut Database](https://www.kaggle.com/datasets/jessemostipak/astronaut-database) provides a detailed profile of astronauts from NASA, Roscosmos, and fan-based compilations up to January 15, 2020. It captures essential biographical data, including names, gender, birth years, and nationalities, alongside their professional backgrounds, distinguishing between military and civilian careers.
+
+The dataset offers in-depth mission-specific information, including selection details, mission titles, shuttle names, and EVA durations. This rich collection of data not only illuminates the individual journeys of astronauts but also enhances our understanding of the broader narrative of human space exploration, making it an invaluable tool for analysis and research. The absence of empty values in the dataset ensures its cleanliness, thereby requiring minimal filtering to extract the most interesting columns.
 
 
 
