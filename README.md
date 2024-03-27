@@ -51,7 +51,7 @@ Furthermore, the project aims to celebrate the human aspect of space exploration
 ### Exploratory Data Analysis
 
 #### Data Pre-processing
-As mentioned earlier, our datasets were predominantly clean, necessitating minimal pre-processing. The primary steps we took involved standardizing country names across the datasets to ensure consistency and reformatting certain columns to suit our analysis requirements. Now we can focus on some insightful exploratory data analysis (see more details here : [📓 Data Analysis Notebook](https://github.com/AlexleLion/AOE_Project/blob/master/notebooks/tData%20Analysis.ipynb))
+As mentioned earlier, our datasets were predominantly clean, necessitating minimal pre-processing. The primary steps we took involved standardizing country names across the datasets to ensure consistency and reformatting certain columns to suit our analysis requirements. Now we can focus on some insightful exploratory data analysis (see more details here : [📓 Data Analysis Notebook](https://github.com/AlexleLion/AOE_Project/blob/master/notebooks/Data%20Analysis.ipynb))
 
 
 #### Trends of Space Missions Over Time
