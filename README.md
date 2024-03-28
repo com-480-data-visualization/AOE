@@ -120,9 +120,11 @@ By taking a geopolitical and historical approach to the conquest of space, we ai
 We would like to offer data visualization with a historical focus. The best way to do this would seem to be to use a timeline showing the evolution of spacecraft, space missions from specific periods, and the main milestones of each decade. 
 
 A potential inspiration could be the [Nasa website](https://science.nasa.gov/solar-system/), which offers an uncluttered and highly immersive visualization of the starry sky, for example. 
->   https://education.nationalgeographic.org/resource/history-space-exploration/
->   https://ourworldindata.org/space-exploration-satellites
->   https://science.nasa.gov/solar-system/
+
+We also found other websites that present some visualization and datas about space exploration to get some ideas and knowledge. 
+[National Geographic](https://education.nationalgeographic.org/resource/history-space-exploration/)
+[Our World in Data](https://ourworldindata.org/space-exploration-satellites)
+
 
 ## Milestone 2 (26th April, 5pm)
 
