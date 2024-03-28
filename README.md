@@ -114,9 +114,10 @@ Key Observations :
 
 ### Related work
 
-Looking at what others have already done with the datasets, there were only very common analysis without going in depth. 
-> - What others have already done with the data?
-> - Why is your approach original?
+Looking at the work done by others, we noticed that there was only one surface study of the database. Our aim is to create a history and present space exploration over the years and its evolution through the political and historical events that marked the 20th century. We want to develop a complete, structured story around the conflicts that the conquest of space has generated and developed. 
+By taking a geopolitical and historical approach to the conquest of space, we aim to present a comprehensive and coherent analysis of all the players involved in the conquest of space, whether civilian or military. We'll be offering an exciting and unique data story, thanks to a detailed and in-depth analysis of these databases. 
+
+We would like to offer data visualization with a historical focus. The best way to do this would seem to be to use a timeline showing the evolution of spacecraft, space missions from specific periods, and the main milestones of each decade. 
 > - What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
 
 > Websites about space exploration : 
