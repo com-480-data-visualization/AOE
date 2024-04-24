@@ -6,12 +6,17 @@
 
 html {
     font-family: 'Jost', sans-serif;
+    scroll-behavior: smooth;
 }
 body {
     background: #333;
 }
+section {
+
+    margin-bottom: 20px;
+}
 .width-limited {
-	max-width: 55rem;
+	max-width: 80rem;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -59,7 +64,7 @@ h1 {
 	padding-top: 5rem;
 	padding-bottom: 5rem;
 
-	background-image: url(background2-space.jpg);
+	background-image: url(images/background2-space.jpg);
 	opacity: 0.7;
 	background-size: cover;
 	justify-content: center;
@@ -76,19 +81,123 @@ h1 {
 	opacity: 1;
 }
 .moon-race{
-	background-image: url(moon.webp);
+	background-image: url(images/moon.webp);
 	background-position: center;
 	background-size: 50%;
 	background-size: cover;
 }
-.box-timeline {
-    width: 100%;
-    height: 1500px;
-    background: #f1f1f1;
-    position: relative;
-    padding: 80px 0 250px 0;
-    margin-bottom: 100px;
+
+.module{
+    background-color: #000;
 }
+.box-diagram {
+    width: 100%;
+    height: 1000px;
+    display: grid;
+
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 10px;
+}
+.apollo {
+    background-image: url(images/background-apollo11.webp);
+    background-position: center;
+    background-size: cover; 
+    padding: 20em 1em; 
+}
+.apollo-text {
+    color: #f1f1f1;
+    font-size: 1rem;
+    font-weight: 100;
+    text-align: center;
+    padding: 20px;
+}
+.missions-overview {
+    background-image: url('images/background-missions-overview.jpeg');
+    background-position: center;
+    background-size: cover; 
+    padding: 20em 1em; 
+    color: #fff; 
+}
+.missions-overview-text {
+    color: #f1f1f1;
+    font-size: 1rem;
+    font-weight: 100;
+    text-align: center;
+    padding: 20px;
+}
+.living-in-space {
+    background-image: url('images/background-Living-in-Space.jpeg');
+    background-position: center;
+    background-size: cover; 
+    padding: 30em 1em; 
+    color: #fff; 
+}
+.living-in-space-text {
+    color: #f1f1f1;
+    font-size: 1rem;
+    font-weight: 100;
+    text-align: center;
+    padding: 20px;
+}
+.failed-missions {
+    background-image: url('images/background-failed-missions.jpeg');
+    background-position: center;
+    background-size: cover; 
+    padding: 30em 1em; 
+    color: #fff; 
+}
+.failed-missions-text {
+    color: #f1f1f1;
+    font-size: 1rem;
+    font-weight: 100;
+    text-align: center;
+    padding: 20px;
+}
+.image-i1 {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/module-apollo11.gif);
+    background-size: cover;
+    background-position: center;
+}
+.image-i2 {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/Lunar-Module-3.webp);
+    background-size: cover;
+    background-position: center;
+}
+.image-i3 {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/lunar-module-outside.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.image-i4 {
+    width: 100%;
+    height: 100%;
+    background-image: url(images/inside-eagle.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.image-mission-artemis1 {
+    min-height: 1000px;
+    max-width: 100%; 
+    display: block;
+    margin: 0 auto; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    border-radius: 8px; 
+    background-image: url(images/Trajectory-Artemis1.png);
+    display: block;
+    margin: 20px auto; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+}
+
+
+
 
 .ligne {
     height: 1000px;
@@ -117,6 +226,16 @@ h1 {
 .r3{top: 692px;}
 .r4{top: 1000px;}
 
+.box-timeline {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    height: 50%;
+    padding: 80px 0 250px 0;
+    margin-bottom: 80px;
+}
 .box {
     color: #333;
     width: 400px;
@@ -133,7 +252,7 @@ h1 {
 
 .b1 {
     top: 80px;
-    left: calc(50% - 270px);
+    left: calc(50% + 270px);
 }
 .b2 {
     top: 386px;
@@ -147,6 +266,7 @@ h1 {
     top: 1000px;
     left: calc(50% + 270px);
 }
+
 
 .box p {
     line-height: 20px;
