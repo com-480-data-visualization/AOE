@@ -132,15 +132,17 @@ We also found other websites that present some visualization and datas about spa
 
 # Space Mission Milestone 2 
 
-## Project Skeleton Web Server
+## Space Mission Skeleton Web Server
 We've deployed an initial version of our web platform that outlines the core structure and navigation elements designed to guide users through the interactive experience of space exploration. Check out the skeleton web server to get a glimpse of the project's direction and user interface.
 
 **Skeleton Webserver:** [Explore the Skeleton Web Server](https://com-480-data-visualization.github.io/AOE/)
 
-## Milestone 2 Report
-For a comprehensive overview of our progress, strategies, and a sneak peek into the future developments planned for this visualization project, please refer to our detailed report.
+## Space Mission Report
 
-**Milestone 2 Report:** [View the PDF Report]([Link-to-PDF-on-GitHub](https://github.com/com-480-data-visualization/AOE/blob/master/AOE_Space_mission_Milestone_2_Report.pdf))
+For an overview of our progress, strategies, and a look into the future developments planned for this visualization project, please refer to our detailed report.
+
+**Milestone 2 Report:** [View the PDF Report](https://github.com/com-480-data-visualization/AOE/blob/master/AOE_Space_mission_Milestone_2_Report.pdf)
+
 
 
 
