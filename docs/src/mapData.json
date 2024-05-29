@@ -1,0 +1,11 @@
+[
+  { "name": "Mir Core Module", "coords": [50, 50, 200, 150] },
+  { "name": "Kvant 1", "coords": [210, 50, 360, 150] },
+  { "name": "Kvant 2", "coords": [370, 50, 520, 150] },
+  { "name": "Kristall", "coords": [530, 50, 680, 150] },
+  { "name": "Spektr", "coords": [690, 50, 840, 150] },
+  { "name": "Priroda", "coords": [850, 50, 1000, 150] },
+  { "name": "Docking Module", "coords": [1010, 50, 1160, 150] },
+  { "name": "Soyuz Crew Transport", "coords": [1170, 50, 1320, 150] },
+  { "name": "Progress Resupply Ship", "coords": [1330, 50, 1480, 150] }
+]

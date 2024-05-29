@@ -1,0 +1,153 @@
+/* LivingInSpace.css */
+
+#living-in-space {
+  position: relative;
+  padding: 50px;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.living-in-space-title {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2em;
+  cursor: pointer; /* Indicates the element is interactive */
+  color: blue; /* Default color */
+  transition: color 0.3s ease-in-out; /* Smooth transition for color change */
+}
+
+.living-in-space-title:hover {
+  color: darkblue; /* Change color on hover to a darker blue */
+}
+
+.mir-description {
+  margin: 20px 0;
+  font-size: 1.1em;
+  line-height: 1.6;
+  color: #333;
+}
+
+.living-in-space-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.mir-image {
+  position: relative;
+  width: 60%;
+}
+
+.greyscale-image {
+  width: 100%;
+  display: block;
+}
+
+.color-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0;
+}
+
+.highlighted-all,
+.highlighted-module {
+  opacity: 1;
+}
+
+.react-modal-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: auto;
+  bottom: auto;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  outline: none;
+  white-space: pre-line; /* This will preserve the line breaks */
+}
+
+.module-image {
+  width: 100%;
+  max-width: 400px; /* Limit the maximum width */
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.hover-instructions {
+  font-size: 1.2em; /* Increase font size */
+  font-weight: bold; /* Make text bold */
+  margin-bottom: 20px;
+  color: #555;
+}
+
+#highlight-mir-core.highlighted-module {
+  clip-path: polygon(18.3% 8.8%, 31.3% 8.8%, 31.3% 50.8%, 18.3% 50.8%, 18.3% 8.8%, 71.83% 40.86%, 76.83% 40.86%, 76.83% 49.29%, 71.83% 49.29%, 71.83% 40.86%);
+}
+
+#highlight-kvant-1.highlighted-module {
+  clip-path: polygon(11% 38%, 18% 38%, 18% 52.7%, 11% 52.7%);
+}
+
+#highlight-kvant-2.highlighted-module {
+  clip-path: polygon(31.5% 0%, 38.5% 0%, 38.5% 41%, 31.5% 41%, 31.5% 0%, 56% 0%, 100% 0%, 100% 41%, 56% 41%, 56% 0%);
+}
+
+#highlight-kristall.highlighted-module {
+  clip-path: polygon(56.08% 39.14%, 71.67% 39.14%, 71.67% 51.43%, 56.08% 51.43%, 56.08% 39.14%, 31.83% 40.43%, 36.83% 40.43%, 36.83% 49.43%, 31.83% 49.43%, 31.83% 40.43%);
+}
+
+#highlight-spektr.highlighted-module {
+  clip-path: polygon(30.83% 48.57%, 39.58% 48.57%, 39.58% 100%, 30.83% 100%, 30.83% 48.57%, 51.83% 50.71%, 100% 50.71%, 100% 100%, 51.83% 100%, 51.83% 50.71%);
+}
+
+#highlight-priroda.highlighted-module {
+  clip-path: polygon(76.75% 39.43%, 92.33% 39.43%, 92.33% 52.43%, 76.75% 52.43%);
+}
+
+#highlight-us-docking.highlighted-module {
+  clip-path: polygon(51% 42.6%, 57% 42.6%, 57% 52.1%, 51% 52.1%);
+}
+
+#highlight-soyuz.highlighted-module {
+  clip-path: polygon(37.8% 33.4%, 47% 33.4%, 47% 58.6%, 37.8% 58.6%);
+}
+
+#highlight-progress.highlighted-module {
+  clip-path: polygon(0% 33.2%, 11.3% 33.2%, 11.3% 59.6%, 0% 59.6%);
+}
+
+.module-list {
+  width: 30%;
+}
+
+.module-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.module-list li {
+  margin: 10px 0;
+}
+
+.module-list a {
+  color: blue;
+  text-decoration: none;
+}
+
+.module-list a:hover {
+  text-decoration: underline;
+}
+
+.react-modal-overlay {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+}
