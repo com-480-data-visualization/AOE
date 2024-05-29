@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/AOE/static/css/main.3e864139.css",
-    "main.js": "/AOE/static/js/main.f5c7a6d9.js",
-    "static/media/new_moon.jpg": "/AOE/static/media/new_moon.db8bbcfc7e3711bc6795.jpg",
-    "static/media/Mir_Station_Complete.jpeg": "/AOE/static/media/Mir_Station_Complete.88da09ba900a3f8f5591.jpeg",
-    "static/media/Trajectory-Artemis1.png": "/AOE/static/media/Trajectory-Artemis1.0b0eb038c9b9f252997b.png",
-    "static/media/usa.jpg": "/AOE/static/media/usa.73215cc28f75140e1418.jpg",
-    "static/media/background-Living-in-Space.jpeg": "/AOE/static/media/background-Living-in-Space.0e92dc33055a6fd3f990.jpeg",
-    "static/media/background-failed-missions.jpeg": "/AOE/static/media/background-failed-missions.8021446f75e42722c89e.jpeg",
-    "static/media/inside-eagle.jpeg": "/AOE/static/media/inside-eagle.1828dd7fd4acd14dc2bb.jpeg",
-    "static/media/background2-space.jpg": "/AOE/static/media/background2-space.987e91307c0c8c34df90.jpg",
-    "static/media/module-apollo11.gif": "/AOE/static/media/module-apollo11.70e6438d565c443ce597.gif",
-    "static/media/lunar-module-outside.jpeg": "/AOE/static/media/lunar-module-outside.c2ce7eab32239407674d.jpeg",
-    "static/media/background-apollo11.webp": "/AOE/static/media/background-apollo11.190dcd6c09ee53a25799.webp",
-    "static/media/Mir_Station_Complete_greyscale.jpg": "/AOE/static/media/Mir_Station_Complete_greyscale.e2a3d38654f6c5c57518.jpg",
-    "static/media/Lunar-Module-3.webp": "/AOE/static/media/Lunar-Module-3.e8d2a691156a49ead6e7.webp",
-    "static/media/background-missions-overview.jpeg": "/AOE/static/media/background-missions-overview.53efc93f2d09ba662e6f.jpeg",
-    "static/media/urss.jpg": "/AOE/static/media/urss.59d9cd5b51b4ca3fd57f.jpg",
-    "index.html": "/AOE/index.html",
-    "main.3e864139.css.map": "/AOE/static/css/main.3e864139.css.map",
-    "main.f5c7a6d9.js.map": "/AOE/static/js/main.f5c7a6d9.js.map"
+    "main.css": "/static/css/main.1cb5cf18.css",
+    "main.js": "/static/js/main.1d081336.js",
+    "static/media/new_moon.jpg": "/static/media/new_moon.db8bbcfc7e3711bc6795.jpg",
+    "static/media/Mir_Station_Complete.jpeg": "/static/media/Mir_Station_Complete.88da09ba900a3f8f5591.jpeg",
+    "static/media/Trajectory-Artemis1.png": "/static/media/Trajectory-Artemis1.0b0eb038c9b9f252997b.png",
+    "static/media/usa.jpg": "/static/media/usa.73215cc28f75140e1418.jpg",
+    "static/media/background-Living-in-Space.jpeg": "/static/media/background-Living-in-Space.0e92dc33055a6fd3f990.jpeg",
+    "static/media/background-failed-missions.jpeg": "/static/media/background-failed-missions.8021446f75e42722c89e.jpeg",
+    "static/media/inside-eagle.jpeg": "/static/media/inside-eagle.1828dd7fd4acd14dc2bb.jpeg",
+    "static/media/background2-space.jpg": "/static/media/background2-space.987e91307c0c8c34df90.jpg",
+    "static/media/module-apollo11.gif": "/static/media/module-apollo11.70e6438d565c443ce597.gif",
+    "static/media/lunar-module-outside.jpeg": "/static/media/lunar-module-outside.c2ce7eab32239407674d.jpeg",
+    "static/media/background-apollo11.webp": "/static/media/background-apollo11.190dcd6c09ee53a25799.webp",
+    "static/media/Mir_Station_Complete_greyscale.jpg": "/static/media/Mir_Station_Complete_greyscale.e2a3d38654f6c5c57518.jpg",
+    "static/media/Lunar-Module-3.webp": "/static/media/Lunar-Module-3.e8d2a691156a49ead6e7.webp",
+    "static/media/background-missions-overview.jpeg": "/static/media/background-missions-overview.53efc93f2d09ba662e6f.jpeg",
+    "static/media/urss.jpg": "/static/media/urss.59d9cd5b51b4ca3fd57f.jpg",
+    "index.html": "/index.html",
+    "main.1cb5cf18.css.map": "/static/css/main.1cb5cf18.css.map",
+    "main.1d081336.js.map": "/static/js/main.1d081336.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e864139.css",
-    "static/js/main.f5c7a6d9.js"
+    "static/css/main.1cb5cf18.css",
+    "static/js/main.1d081336.js"
   ]
 }
