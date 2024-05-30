@@ -1,0 +1,30 @@
+.john-glenn-container {
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2, h3 {
+    text-align: center;
+  }
+  
+  .toggle-link {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .technical-details, .pilot-details {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .pilot-image {
+    width: 200px;
+    display: block;
+    margin: 20px auto;
+    cursor: pointer;
+  }
+  

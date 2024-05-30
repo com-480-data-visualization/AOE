@@ -1,0 +1,45 @@
+.apollo8-container {
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+h2, h3, h4 {
+  text-align: center;
+}
+
+.service-module {
+  text-align: center;
+}
+
+.service-module-image {
+  width: 100%;
+  max-width: 520px;
+  cursor: pointer;
+  margin: 20px auto;
+}
+
+.technical-details, .crew-details {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.crew-list {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.crew-member {
+  text-align: center;
+}
+
+.crew-image {
+  width: 100px;
+  cursor: pointer;
+}
+
+button {
+  margin-top: 10px;
+}

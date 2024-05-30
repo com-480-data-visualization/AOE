@@ -1,28 +1,41 @@
 {
   "files": {
-    "main.css": "/AOE/static/css/main.3e864139.css",
-    "main.js": "/AOE/static/js/main.5aaa7b9a.js",
+    "main.css": "/AOE/static/css/main.ba2e56b1.css",
+    "main.js": "/AOE/static/js/main.0216486b.js",
+    "static/media/Soyuz_11.jpg": "/AOE/static/media/Soyuz_11.cbf1f9fa6ad1f7c17fb7.jpg",
+    "static/media/Salyut_1.jpg": "/AOE/static/media/Salyut_1.3084fab865a679ae8694.jpg",
     "static/media/new_moon.jpg": "/AOE/static/media/new_moon.db8bbcfc7e3711bc6795.jpg",
     "static/media/Mir_Station_Complete.jpeg": "/AOE/static/media/Mir_Station_Complete.88da09ba900a3f8f5591.jpeg",
     "static/media/Trajectory-Artemis1.png": "/AOE/static/media/Trajectory-Artemis1.0b0eb038c9b9f252997b.png",
     "static/media/usa.jpg": "/AOE/static/media/usa.73215cc28f75140e1418.jpg",
     "static/media/background-Living-in-Space.jpeg": "/AOE/static/media/background-Living-in-Space.0e92dc33055a6fd3f990.jpeg",
+    "static/media/Rescue_9_H.jpg": "/AOE/static/media/Rescue_9_H.e310164b5c26eb7208f3.jpg",
     "static/media/background-failed-missions.jpeg": "/AOE/static/media/background-failed-missions.8021446f75e42722c89e.jpeg",
     "static/media/inside-eagle.jpeg": "/AOE/static/media/inside-eagle.1828dd7fd4acd14dc2bb.jpeg",
+    "static/media/Module_in_the_lake.jpg": "/AOE/static/media/Module_in_the_lake.e3b8cdebf907c620c5e2.jpg",
     "static/media/background2-space.jpg": "/AOE/static/media/background2-space.987e91307c0c8c34df90.jpg",
     "static/media/module-apollo11.gif": "/AOE/static/media/module-apollo11.70e6438d565c443ce597.gif",
+    "static/media/Zudov_Vyacheslav.jpg": "/AOE/static/media/Zudov_Vyacheslav.e87e7cdcc9963e48e2ba.jpg",
+    "static/media/Helicopter_is_taking_module.jpg": "/AOE/static/media/Helicopter_is_taking_module.37fb55c6ce8e277379ed.jpg",
+    "static/media/Rozhdestvensky_Valery.jpg": "/AOE/static/media/Rozhdestvensky_Valery.c694792d0c61297eb36f.jpg",
+    "static/media/Crew.jpg": "/AOE/static/media/Crew.288b6bc9402b5a1b71fb.jpg",
     "static/media/lunar-module-outside.jpeg": "/AOE/static/media/lunar-module-outside.c2ce7eab32239407674d.jpeg",
     "static/media/background-apollo11.webp": "/AOE/static/media/background-apollo11.190dcd6c09ee53a25799.webp",
+    "static/media/Capsule.jpg": "/AOE/static/media/Capsule.5e99c696dde88ff6e7e5.jpg",
     "static/media/Mir_Station_Complete_greyscale.jpg": "/AOE/static/media/Mir_Station_Complete_greyscale.e2a3d38654f6c5c57518.jpg",
     "static/media/Lunar-Module-3.webp": "/AOE/static/media/Lunar-Module-3.e8d2a691156a49ead6e7.webp",
     "static/media/background-missions-overview.jpeg": "/AOE/static/media/background-missions-overview.53efc93f2d09ba662e6f.jpeg",
+    "static/media/Soyuz_23.jpg": "/AOE/static/media/Soyuz_23.1a7969dd88c562f8bf04.jpg",
+    "static/media/Volkov_Vladislav.jpg": "/AOE/static/media/Volkov_Vladislav.3860aa91949047030ef0.jpg",
+    "static/media/Dobrovolski_Georgi.jpg": "/AOE/static/media/Dobrovolski_Georgi.86e25f33742811dfe6c7.jpg",
+    "static/media/Patsayev_Viktor.jpg": "/AOE/static/media/Patsayev_Viktor.dbdbccd264c0a35f42a4.jpg",
     "static/media/urss.jpg": "/AOE/static/media/urss.59d9cd5b51b4ca3fd57f.jpg",
     "index.html": "/AOE/index.html",
-    "main.3e864139.css.map": "/AOE/static/css/main.3e864139.css.map",
-    "main.5aaa7b9a.js.map": "/AOE/static/js/main.5aaa7b9a.js.map"
+    "main.ba2e56b1.css.map": "/AOE/static/css/main.ba2e56b1.css.map",
+    "main.0216486b.js.map": "/AOE/static/js/main.0216486b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e864139.css",
-    "static/js/main.5aaa7b9a.js"
+    "static/css/main.ba2e56b1.css",
+    "static/js/main.0216486b.js"
   ]
 }
