@@ -148,7 +148,7 @@ For an overview of our progress, strategies, and a look into the future developm
 
 ## Milestone 3 (31st May, 5pm)
 
-**80% of the final grade**
+You can have a look to our nice website juste there : [Space Exploration](https://github.com)
 
 
 ## Late policy
