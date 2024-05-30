@@ -335,12 +335,12 @@ h6{
     z-index: 5;
 }
 
-.b1 {top: 55px; margin-left: calc(45%); background-image: url(images/urss.jpg)} 
+.b1 {top: 55px; margin-left: calc(35%); background-image: url(images/urss.jpg)} 
 .b1_1 {top: 55px; margin-left: calc(90%); background-image: url(images/urss.jpg)}
 .b2 {top: 125px; margin-left: calc(35%); background-image: url(images/urss.jpg)}
 .b2_1 {top: 125px; margin-left: calc(90%); background-image: url(images/urss.jpg)}
-.b3 {top: 145px; margin-left: calc(-30%); background-image: url(images/usa.jpg)}
-.b3_1 {top: 245px; margin-left: calc(-30%); background-image: url(images/usa.jpg)}
+.b3 {top: 145px; margin-left: calc(-60%); background-image: url(images/usa.jpg)}
+.b3_1 {top: 245px; margin-left: calc(-10%); background-image: url(images/usa.jpg)}
 .b4 {top: 270px; margin-left: calc(35%); background-image: url(images/urss.jpg)}
 .b5 {top: 335px; margin-left: calc(-60%); background-image: url(images/usa.jpg)}
 .b6 {top: 405px; margin-left: calc(90%); background-image: url(images/urss.jpg)}
