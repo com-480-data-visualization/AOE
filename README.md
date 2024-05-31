@@ -148,7 +148,9 @@ For an overview of our progress, strategies, and a look into the future developm
 
 ## Milestone 3 (31st May, 5pm)
 
-You can have a look to our nice website juste there : [Space Exploration](https://com-480-data-visualization.github.io/AOE/)
+You can have a look at our nice website just here : [Space Exploration](https://com-480-data-visualization.github.io/AOE/)
+
+The source code of the website is under **space_missions/**.
 
 
 ## Late policy
