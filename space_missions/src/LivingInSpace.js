@@ -168,18 +168,15 @@ function LivingInSpace() {
         Mir Space Station
       </h1>
       <p className="mir-description">
-        The Mir base module was launched on 20 February 1986. Large expansion modules, launched on Proton rockets, were periodically added to the station. These modules used automated docking techniques developed during the missions of Salyut 6 and 7.
+  Here, you can take a look to see how life in space was. We took one example of a space station called Mir.
 
-        Crews were launched using Soyuz rockets and capsules. Progress spacecraft, also launched on Soyuz rockets, carried food, fuel, water, and other supplies to the station.
+  Mir was a space station that operated in low Earth orbit from 1986 to 2001, managed initially by the Soviet Union and later by Russia. It was the first modular space station, assembled from 1986 to 1996, and was the largest artificial satellite until succeeded by the ISS. Mir served as a microgravity research lab for experiments in biology, physics, astronomy, and more, advancing technologies for permanent space habitation.
 
-        Starting in July 1995, several American space shuttles docked with the Mir station. Seven American astronauts lived onboard the station for extended periods of time. Shannon Lucid's six month tour was the longest American stay on the station.
+  The base module launched on February 20, 1986, with additional modules added via Proton rockets. Crews arrived on Soyuz rockets, and Progress spacecraft delivered supplies. From July 1995, American shuttles docked with Mir, and seven American astronauts lived on board, including Shannon Lucid's record six-month stay. Cosmonauts also undertook long missions, with Dr. Valeri Polyakov spending 438 consecutive days on Mir.
 
-        Cosmonauts performed many long duration stays aboard the station. Several spent over one year on the station. Dr. Valeri Polyakov lived aboard the station for a record 438 consecutive days.
+  As the ISS was constructed in the late 1990s, Mir was decommissioned and re-entered Earth's atmosphere over the Pacific Ocean. Operating for over a decade, Mir proved that long-term human outposts in space were possible.
+    </p>
 
-        With the International Space Station under construction in the late 1990's, Mir was abandoned. Using progress tugs, Russian controllers were able to re-enter the station over a remote area of the Pacific ocean.
-
-        Operated in orbit for over a decade, the Mir space station proved human outposts could be maintained for extended periods of time.
-      </p>
       <div className="living-in-space-content">
         <div className="mir-image">
           <img src={greyscaleImage} alt="Mir Space Station" className="greyscale-image" />

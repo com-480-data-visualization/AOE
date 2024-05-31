@@ -190,11 +190,11 @@ const RocketMissions = () => {
   const renderBubbles = (data, svg, width, height, className) => {
     if (data.length === 0) return;
 
-    const minRadius = 20;
+    const minRadius = 25;
 
     const bubble = d3.pack()
         .size([width, height])
-        .padding(10);
+        .padding(43);
 
     const root = d3.hierarchy({ children: data })
         .sum(d => d.value)
@@ -268,7 +268,7 @@ const RocketMissions = () => {
             totalMissions: d.data.totalMissions,
             successCount: d.data.successCount,
             failureCount: d.data.failureCount,
-            country: view === 'company' ? d.data.country : undefined,
+            country: (view === 'company' || view === 'allcompany' )? d.data.country : undefined,
         });
     })
         .on('mouseout', function (event, d) {

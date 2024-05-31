@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AOE/static/css/main.ba2e56b1.css",
-    "main.js": "/AOE/static/js/main.0216486b.js",
+    "main.css": "/AOE/static/css/main.c9ad54e7.css",
+    "main.js": "/AOE/static/js/main.f16d182e.js",
     "static/media/Soyuz_11.jpg": "/AOE/static/media/Soyuz_11.cbf1f9fa6ad1f7c17fb7.jpg",
     "static/media/Salyut_1.jpg": "/AOE/static/media/Salyut_1.3084fab865a679ae8694.jpg",
     "static/media/new_moon.jpg": "/AOE/static/media/new_moon.db8bbcfc7e3711bc6795.jpg",
@@ -31,11 +31,11 @@
     "static/media/Patsayev_Viktor.jpg": "/AOE/static/media/Patsayev_Viktor.dbdbccd264c0a35f42a4.jpg",
     "static/media/urss.jpg": "/AOE/static/media/urss.59d9cd5b51b4ca3fd57f.jpg",
     "index.html": "/AOE/index.html",
-    "main.ba2e56b1.css.map": "/AOE/static/css/main.ba2e56b1.css.map",
-    "main.0216486b.js.map": "/AOE/static/js/main.0216486b.js.map"
+    "main.c9ad54e7.css.map": "/AOE/static/css/main.c9ad54e7.css.map",
+    "main.f16d182e.js.map": "/AOE/static/js/main.f16d182e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba2e56b1.css",
-    "static/js/main.0216486b.js"
+    "static/css/main.c9ad54e7.css",
+    "static/js/main.f16d182e.js"
   ]
 }
