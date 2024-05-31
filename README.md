@@ -148,9 +148,16 @@ For an overview of our progress, strategies, and a look into the future developm
 
 ## Milestone 3 (31st May, 5pm)
 
+## Space Mission Web Server
 You can have a look at our nice website just here : [Space Exploration](https://com-480-data-visualization.github.io/AOE/)
 
+## Source Code for the Space Mission Web Server
 The source code of the website is under [**space_missions/**](https://github.com/com-480-data-visualization/AOE/tree/master/space_missions).
+
+## Screenshot Video for the Space Mission Web Server
+You can check the screenshot video from the following link: [Watch Video](https://www.youtube.com/watch?v=RRDQa0_5ISM&feature=youtu.be)
+
+
 
 
 ## Late policy
