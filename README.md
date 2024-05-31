@@ -154,8 +154,10 @@ You can have a look at our nice website just here : [Space Exploration](https://
 ## Source Code for the Space Mission Web Server
 The source code of the website is under [**space_missions/**](https://github.com/com-480-data-visualization/AOE/tree/master/space_missions).
 
-## Screenshot Video for the Space Mission Web Server
-You can check the screenshot video from the following link: [Watch Video](https://www.youtube.com/watch?v=RRDQa0_5ISM&feature=youtu.be)
+## Process Book and Screenshot Video
+You can check the screenshot video from the following youtube link: [Watch Video](https://www.youtube.com/watch?v=RRDQa0_5ISM&feature=youtu.be)
+
+You can find the process book here [View the Process Book](https://github.com/com-480-data-visualization/AOE/blob/master/Milestone3/Process_Book.pdf)
 
 
 
