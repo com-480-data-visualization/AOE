@@ -150,7 +150,7 @@ For an overview of our progress, strategies, and a look into the future developm
 
 You can have a look at our nice website just here : [Space Exploration](https://com-480-data-visualization.github.io/AOE/)
 
-The source code of the website is under **space_missions/**.
+The source code of the website is under [**space_missions/**](https://github.com/com-480-data-visualization/AOE/tree/master/space_missions).
 
 
 ## Late policy
