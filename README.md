@@ -130,14 +130,14 @@ We also found other websites that present some visualization and datas about spa
 [Our World in Data](https://ourworldindata.org/space-exploration-satellites)
 
 
-# Space Mission Milestone 2 
+## Milestone 2 
 
-## Space Mission Skeleton Web Server
+### Space Mission Skeleton Web Server
 We've deployed an initial version of our web platform that outlines the core structure and navigation elements designed to guide users through the interactive experience of space exploration. Check out the skeleton web server to get a glimpse of the project's direction and user interface.
 
 **Skeleton Webserver:** [Explore the Skeleton Web Server](https://com-480-data-visualization.github.io/AOE/)
 
-## Space Mission Report
+### Space Mission Report
 
 For an overview of our progress, strategies, and a look into the future developments planned for this visualization project, please refer to our detailed report.
 
@@ -148,13 +148,13 @@ For an overview of our progress, strategies, and a look into the future developm
 
 ## Milestone 3 (31st May, 5pm)
 
-## Space Mission Web Server
+### Space Mission Web Server
 You can have a look at our nice website just here : [Space Exploration](https://com-480-data-visualization.github.io/AOE/)
 
-## Source Code for the Space Mission Web Server
+### Source Code for the Space Mission Web Server
 The source code of the website is under [**space_missions/**](https://github.com/com-480-data-visualization/AOE/tree/master/space_missions).
 
-## Process Book and Screenshot Video
+### Process Book and Screenshot Video
 You can check the screenshot video from the following youtube link: [Watch Video](https://www.youtube.com/watch?v=RRDQa0_5ISM&feature=youtu.be)
 
 You can find the process book here [View the Process Book](https://github.com/com-480-data-visualization/AOE/blob/master/Milestone3/Process_Book.pdf)
